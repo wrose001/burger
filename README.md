@@ -20,7 +20,7 @@ This application allows users to add burgers to a list of Devoured or Not Devour
 
 ## Built With
 
-This app was built with inquirer, jest, and file saver dependencies, in addition to node and typical HTML and JavaScript files.
+This app was built with MySQL, Node, Express, Handlebars and a homemade ORM. It has been deployed to Heroku.
 
 ## Contributing
 
