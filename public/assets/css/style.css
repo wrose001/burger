@@ -1,7 +1,13 @@
+body {
+  background-image: url("../images/food.png");
+  background-repeat: repeat;
+}
+
 li {
   padding: 5px;
   margin: 5px;
-  background: #faebd7;
+  background: lightgray;
+  list-style-type: none;
 }
 
 .label {
@@ -11,9 +17,12 @@ li {
 .create-update-form {
   padding: 5px;
   margin: 5px;
-  background: aqua;
+  background: lightgray;
+  list-style-type: none;
 }
 
 .form-group {
   margin-bottom: 5px;
 }
+
+/* https://lh5.googleusercontent.com/proxy/LxExxkEfMp8I0r7q6kvQTgqaClHmAfupoVFIEobaP4rbZaGs3Cqm3v7Ml-E7Q9G64H0WWYgHH5idFKuEB60BDgaOMHziaQ */
